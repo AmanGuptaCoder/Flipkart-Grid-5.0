@@ -63,9 +63,9 @@ We generate revenue through multiple streams, including a transaction-based mode
 
 ### ScreenShots of WeCare
 <pre>
-<img src="./images/1.png" alt="1" width="300" height="600" /> <img src="./images/2.png" alt="1" width="300" height="600" /> <img src="./images/3.png" alt="1" width="300" height="600" /> <img src="./images/4.png" alt="1" width="300" height="600" /> <img src="./images/5.png" alt="1" width="300" height="600" /> <img src="./images/7.png" alt="1"
-	 width="300" height="600" /> <img src="./images/8.png" alt="1"
-	 width="300" height="600" />
+<img src="./images/1.png" alt="1" width="370" height="173" /> <img src="./images/2.png" alt="1" width="370" height="173" /> <img src="./images/3.png" alt="1" width="370" height="173" /> <img src="./images/4.png" alt="1" width="370" height="173" /> <img src="./images/5.png" alt="1" width="370" height="173" /> <img src="./images/7.png" alt="1"
+	 width="370" height="173" /> <img src="./images/8.png" alt="1"
+	 width="370" height="173" />
 
 </pre>
 ### Contributors
