@@ -61,12 +61,9 @@ Our business model centers around enhancing user experiences and driving sales t
 
 We generate revenue through multiple streams, including a transaction-based model where we earn a percentage of sales from recommended products. Additionally, we offer a subscription tier that provides premium personalization and exclusive recommendations. Our ability to analyze user behavior and trends positions us to monetize data insights by partnering with third-party companies looking for valuable market insights.
 
-### ScreenShots of WeCare
+### ScreenShots of FlipGrid
 <pre>
-<img src="./images/1.png" alt="1" width="370" height="173" /> <img src="./images/2.png" alt="1" width="370" height="173" /> <img src="./images/3.png" alt="1" width="370" height="173" /> <img src="./images/4.png" alt="1" width="370" height="173" /> <img src="./images/5.png" alt="1" width="370" height="173" /> <img src="./images/7.png" alt="1"
-	 width="370" height="173" /> <img src="./images/8.png" alt="1"
-	 width="370" height="173" />
-
+<img src="./images/1.png" alt="1" width="370" height="173" /> <img src="./images/2.png" alt="1" width="370" height="173" /> <img src="./images/3.png" alt="1" width="370" height="173" /> <img src="./images/4.png" alt="1" width="370" height="173" /> <img src="./images/5.png" alt="1" width="370" height="173" /> 
 </pre>
 ### Contributors
 - Shashank Kumar
